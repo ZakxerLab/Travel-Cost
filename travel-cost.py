@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 # API GOOGLE MAPS https://developers.google.com/maps/documentation/distance-matrix/get-api-key
 api_key = ''  # Insert your API KEY
-git add .
+
 # INFO FROM USERS
 origin = input('Podaj miejsce z którego wyruszasz: ')
 destination = input('Podaj miejsce do którego jedziesz: ')
